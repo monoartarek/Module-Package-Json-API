@@ -1,5 +1,6 @@
 #What is Module?
 #In programming, a module is a file that contains code (like functions, classes, or variables) that can be reused in other programs. Think of a module as a toolbox: it groups related tools (code) together so you can import and use them when needed.A module is simply a .py file.
+
 # example:
 # 🔎 Built-in Python Modules (already included with Python):
 # math – for mathematical functions
